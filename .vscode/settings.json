@@ -7,8 +7,10 @@
                     "foreground": "#f00"
                 }
             },
-            {
-                "scope": "googletest.passed",
+
+
+
+            "scope": "googletest.passed",
                 "settings": {
                     "foreground": "#0f0"
                 }
